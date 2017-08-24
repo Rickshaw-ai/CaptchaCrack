@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptchaCrackFrame", "CaptchaCrackFrame\CaptchaCrackFrame.csproj", "{297CF877-AE08-4355-9A63-36F609AE0240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCut", "ImageCut\ImageCut.csproj", "{B540D8E4-996E-4502-B3CE-E7F35BF985C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCommon", "ImageCommon\ImageCommon.csproj", "{FE0A33C7-36BA-489A-8B4E-CF1956379EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageFeature", "ImageFeature\ImageFeature.csproj", "{82353F72-9CC5-446E-9585-BE6546AE8AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSource", "DataSource\DataSource.csproj", "{C2D207A9-8D5F-49C4-9CAD-CCB3583B52B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCaptchaCrack", "TestCaptchaCrack\TestCaptchaCrack.csproj", "{2BE5ED1D-46F1-4062-9FDA-B62494931760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297CF877-AE08-4355-9A63-36F609AE0240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297CF877-AE08-4355-9A63-36F609AE0240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297CF877-AE08-4355-9A63-36F609AE0240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297CF877-AE08-4355-9A63-36F609AE0240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B540D8E4-996E-4502-B3CE-E7F35BF985C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B540D8E4-996E-4502-B3CE-E7F35BF985C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B540D8E4-996E-4502-B3CE-E7F35BF985C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B540D8E4-996E-4502-B3CE-E7F35BF985C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0A33C7-36BA-489A-8B4E-CF1956379EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0A33C7-36BA-489A-8B4E-CF1956379EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0A33C7-36BA-489A-8B4E-CF1956379EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0A33C7-36BA-489A-8B4E-CF1956379EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82353F72-9CC5-446E-9585-BE6546AE8AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82353F72-9CC5-446E-9585-BE6546AE8AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82353F72-9CC5-446E-9585-BE6546AE8AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82353F72-9CC5-446E-9585-BE6546AE8AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D207A9-8D5F-49C4-9CAD-CCB3583B52B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D207A9-8D5F-49C4-9CAD-CCB3583B52B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D207A9-8D5F-49C4-9CAD-CCB3583B52B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D207A9-8D5F-49C4-9CAD-CCB3583B52B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE5ED1D-46F1-4062-9FDA-B62494931760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE5ED1D-46F1-4062-9FDA-B62494931760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE5ED1D-46F1-4062-9FDA-B62494931760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE5ED1D-46F1-4062-9FDA-B62494931760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

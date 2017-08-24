@@ -1,0 +1,13 @@
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\ImageCommon.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\ImageCommon.pdb
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\obj\Debug\ImageCommon.csprojResolveAssemblyReference.cache
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\obj\Debug\ImageCommon.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\obj\Debug\ImageCommon.pdb
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\AForge.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\AForge.Imaging.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\AForge.Math.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\ImageCut.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\ImageCut.pdb
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\AForge.xml
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\AForge.Imaging.xml
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageCommon\bin\Debug\AForge.Math.xml

@@ -1,0 +1,8 @@
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\bin\Debug\ImageFeature.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\bin\Debug\ImageFeature.pdb
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\bin\Debug\DataSource.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\bin\Debug\DataSource.pdb
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\obj\Debug\ImageFeature.csprojResolveAssemblyReference.cache
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\obj\Debug\ImageFeature.dll
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\obj\Debug\ImageFeature.pdb
+F:\工作任务\验证码识别\验证码及神经网络源码\神经网络破解验证码\北京破解验证码代码\MatureFramework\CaptchaCrackFramework\CaptchaCrackFrame\ImageFeature\bin\Debug\FeatureData\BeiJingFeatureData.txt
